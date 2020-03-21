@@ -34,3 +34,18 @@
  5. 适当使用列表格式。
  6. 考虑使用图像，插图，视频，音频和符号来帮助阐明含义。
 ![NRJJML](https://raw.githubusercontent.com/EasonQXF/Web_Operations/master/images/6.png)
+
+# 根据WAI原则点评网站（以b站为例
+> 我们通过哔哩哔哩网站作为例子，根据上述的分点来分析。
+#### 提供内容丰富，独特的页面标题
+> b站的每一个小页面都在标题处列出了该网页的主要元素，例如数码、生活、游戏各个页面，用户在浏览网页的时候能在第一时间区分出每一个网页，避免用户产生困惑。
+![提供内容丰富，独特的页面标题](https://github.com/PAN-XUE-JIE/Web_Operations/blob/master/images/2.1.png)
+#### 使用标题传达含义和结构
+> 例如B站分类为“科技”的网页，科技这个面比较广泛，如果没有再进行细分，那么整个网站就显得杂乱无章，无迹可寻，但是B站做到了，它细分出“趣味科普人文”和“野生技术协会”等等，可以让用户很明确的找到自己想要看的内容，并且推荐有关的内容让用户沉浸于此。
+![使用标题传达含义和结构](https://github.com/PAN-XUE-JIE/Web_Operations/blob/master/images/2.2.png)
+#### 使链接文字有意义
+> B站的链接文本比较简洁，但麻雀虽小五脏俱全，它短短的几个字就可以给用户传达有用的信息，可以很迅速的将用户传送到想要的网页。
+![使链接文字有意义](https://github.com/PAN-XUE-JIE/Web_Operations/blob/master/images/2.3.png)
+#### 为图像编写有意义的文本替代
+> 该处的图片替代文本可以在用户设备无法显示图片的时候，告知用户此照片是在阐述武汉的真实模样，感兴趣的用户就可以点击跳转到详细页浏览。
+![为图像编写有意义的文本替代](https://github.com/PAN-XUE-JIE/Web_Operations/blob/master/images/2.4.png)
