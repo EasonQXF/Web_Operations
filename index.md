@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/EasonQXF/Web_Operations/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EasonQXF/Web_Operations/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 编写Web可访问性
+> [原文链接：https://www.w3.org/WAI/tips/writing/](https://www.w3.org/WAI/tips/writing/)
+* 此页面介绍了一些基本注意事项，以帮助您开始编写残障人士更容易访问的Web内容。这些技巧是帮助您满足Web Content Accessibility Guidelines（WCAG）要求的良好实践。遵循相关WCAG要求的链接，“理解”文档中的详细背景，教程指南，用户案例等。
+  1. 提供内容丰富，独特的页面标题
+  2. 使用标题传达含义和结构
+  3. 使链接文字有意义
+  4. 为图像编写有意义的文本替代
+  5. 创建多媒体文字记录和字幕
+  6. 提供明确的指示
+  7. 保持内容简洁明了
+## 提供内容丰富，独特的页面标题
+> 对于每个网页，请提供简短的标题，以描述页面内容并将其与其他页面区分开。页面标题通常与页面的主要标题相同。将独特且最相关的信息放在首位；例如，将页面名称放在组织名称之前。对于属于多步骤过程的页面，请在页面标题中包括当前步骤。
