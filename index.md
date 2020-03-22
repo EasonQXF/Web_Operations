@@ -34,3 +34,29 @@
  5. 适当使用列表格式。
  6. 考虑使用图像，插图，视频，音频和符号来帮助阐明含义。
 ![NRJJML](https://raw.githubusercontent.com/EasonQXF/Web_Operations/master/images/6.png)
+
+# 根据WAI原则点评网站（以b站为例
+> 我们通过哔哩哔哩网站作为例子，根据上述的分点来分析。
+#### 提供内容丰富，独特的页面标题
+> b站的每一个小页面都在标题处列出了该网页的主要元素，例如数码、生活、游戏各个页面，用户在浏览网页的时候能在第一时间区分出每一个网页，避免用户产生困惑。
+![提供内容丰富，独特的页面标题](https://github.com/PAN-XUE-JIE/Web_Operations/blob/master/images/2.1.png)
+#### 使用标题传达含义和结构
+> 例如B站分类为“科技”的网页，科技这个面比较广泛，如果没有再进行细分，那么整个网站就显得杂乱无章，无迹可寻，但是B站做到了，它细分出“趣味科普人文”和“野生技术协会”等等，可以让用户很明确的找到自己想要看的内容，并且推荐有关的内容让用户沉浸于此。
+![使用标题传达含义和结构](https://github.com/PAN-XUE-JIE/Web_Operations/blob/master/images/2.2.png)
+#### 使链接文字有意义
+> B站的链接文本比较简洁，但麻雀虽小五脏俱全，它短短的几个字就可以给用户传达有用的信息，可以很迅速的将用户传送到想要的网页。
+![使链接文字有意义](https://github.com/PAN-XUE-JIE/Web_Operations/blob/master/images/2.3.png)
+#### 为图像编写有意义的文本替代
+> 该处的图片替代文本可以在用户设备无法显示图片的时候，告知用户此照片是在阐述武汉的真实模样，感兴趣的用户就可以点击跳转到详细页浏览。
+![为图像编写有意义的文本替代](https://github.com/PAN-XUE-JIE/Web_Operations/blob/master/images/2.4.png)
+#### 创建多媒体文字记录和字幕
+> 这是一个电台直播间的截图，我们可以看到会有开播时间提示、歌词提示、歌曲目录提示、弹幕信息分享等。
+![创建多媒体文字记录和字幕](https://raw.githubusercontent.com/EasonQXF/Web_Operations/master/images/ZM.png)
+#### 提供明确的指示
+> 下图是B站用户注册时的页面截图，可以看到每一项需要填入的信息都有文字提示规格以及类别，便于用户的理解，注册时也能够迅速找到填写的目标。
+![提供明确指示](https://raw.githubusercontent.com/EasonQXF/Web_Operations/master/images/MQZS.png)
+#### 保持内容简洁明了
+> 下图是B站的主界面，所有的分类，直播、番剧、漫画等等都是很简洁明了地告诉用户这里是哪里，而且在动画、舞蹈、音乐等的导航栏处还会有相应的面包屑导航，使得用户前往目标页面变得清晰明确。而且在作品的封面缩略地图还会有作品内容的概要，一般不超过20个字。
+![保持内容简洁明了](https://raw.githubusercontent.com/EasonQXF/Web_Operations/master/images/JJML.png)
+#### 以上便是对于B站的相关分析说明。
+> 分析成员：丘小峰181013040、潘学杰181013123
