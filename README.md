@@ -91,7 +91,7 @@
 ![siteorigin](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/siteorigin.png)
 
 - 文章图文来源标明出处并给出链接。
-![标明出处](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/siteorigin.png)
+![标明出处](https://gitee.com/EdisonQXF/Web_Operations/blob/master/images/%E5%9B%BE%E6%96%87%E5%87%BA%E5%A4%84%E8%AF%B4%E6%98%8E.png)
 
 #### 网站配色、对比度与可读性
 - 网站的配色以白色和黑色为主，淡绿色为网站主体背景色。链接字体为蓝色，导航和文章标题为白色，其他字体黑色，可读性比较强。
@@ -119,7 +119,7 @@
 #### 网站安全
 - 目前我的网站的安全性属于中等的程度。
 - 我通过安装了wordfence插件来检测自己网站的安全性，在2020年6月28日通过对网站进行扫描发现我的网站没有出现安全隐患。
-![wordfence安全截图](https://gitee.com/EdisonQXF/Web_Operations/blob/master/images/wordfence%E5%AE%89%E5%85%A8%E6%88%AA%E5%9B%BE.png)
+![wordfence安全截图](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/wordfence%E5%AE%89%E5%85%A8%E6%88%AA%E5%9B%BE.png)
 
 - 我的网站会时常受到别人的攻击，但暂时并未受到影响。
 - 我还可以寻找其他插件进行再一层的保护。
