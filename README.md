@@ -35,6 +35,10 @@
     - [（三）用户研究](#用户研究)
     - [（四）定制化](#定制化)
 
+- [四、加分项](#加分项)
+    - [（一）使用HTTPS](#使用HTTPS)    
+
+    
 # 一、策划
 ## 策划文档与网站地图
 #### 网站建设目标
@@ -93,7 +97,7 @@
 
 #### 图库风格及配色
 图库的风格以热血拼搏为主，大部分来自NBA中国官方网站（球员、球队等图片）。
-![图库]()
+![图库](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%9B%BE%E7%89%87%E5%BA%93.png)
 
 ## 架站踩坑图文文章
 - [通过插件实现CSS3动画]( https://www.qxf0418.fun/%e9%80%9a%e8%bf%87%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0css3%e5%8a%a8%e7%94%bb.html)
@@ -167,17 +171,18 @@
 网站的内容、排版等要时刻进行优化，我对文章的排版优化之后，数据显示是有增加的。
 
 - 6月24、25日更新的文章
-![6月]()
+![6月24、25日更新的文章](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E6%9B%B4%E6%96%B0%E7%9A%84%E6%96%87%E7%AB%A0062425.png)
 
 - 6月26日上升的浏览量： 
-![浏览量]()
+![6月26日上升的浏览量](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E4%BC%98%E5%8C%96%E5%90%8E%E6%8F%90%E5%8D%87.png)
 
 #### 网站地图
 -	网站地图的设置也能够让网站的浏览量得到提升。
 
 #### 增加外链和内链
 - 我在我的文章里面添加了外链、内链，当你在阅读我的文章时，可以通过我的内链进到我的另一个文章页面，，也可以通过外链进入到其他网站。
-
+![外链]()
+![内链](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%86%85%E9%93%BE1.png)
 #### WP Clean Up插件优化wp的数据库
 ![WP Clean Up]()
 
@@ -202,10 +207,12 @@
 ![区分](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E7%9C%8B%E8%BF%87%E7%9A%84%E6%96%87%E7%AB%A0%E9%93%BE%E6%8E%A5%E5%8F%98%E6%88%90%E9%BB%91%E8%89%B2.png)
 
 ## 定制化
-1. 
+1. 根据用户需求改进网站链接显示方式——看过的文章链接变为黑色，未看过的文章默认为蓝色。
+![区分](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E7%9C%8B%E8%BF%87%E7%9A%84%E6%96%87%E7%AB%A0%E9%93%BE%E6%8E%A5%E5%8F%98%E6%88%90%E9%BB%91%E8%89%B2.png)
 
-2. 通过使用WP Content Copy Protection & No Right Click插件，添加了不可复制网站的功能。通过使用插件使得网站的文章不能被复制，保护了这个文章原作者的权益。
+2. 满足网站防盗功能——通过使用WP Content Copy Protection & No Right Click插件，添加了不可复制网站的功能。通过使用插件使得网站的文章不能被复制，保护了这个文章原作者的权益。
 ![禁止复制文章](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%AE%89%E5%85%A8%E6%8F%92%E4%BB%B6.png)
 ![禁止复制文章](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E6%97%A0%E6%B3%95%E5%A4%8D%E5%88%B6%E4%BF%9D%E6%8A%A4.png)
 
-
+# 使用HTTPS
+![域名](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%9F%9F%E5%90%8D.png)
