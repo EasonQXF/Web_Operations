@@ -74,20 +74,24 @@
 
 ## 平面设计
 #### 平面设计插件运用
-- 使用Animate it! 
+- 使用Animate it! （展示两处）
 - 文章的图片增加Animate it!动画，增加阅读趣味性。
 ![图片]()
 
 - 在文章的标题加了简单动画，增加阅读趣味性让标题更醒目。
 ![标题](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/animate%E5%8A%A8%E7%94%BB%E8%AE%BE%E7%BD%AE1.png)
 
-- SiteOrigin
+- SiteOrigin（展示三处）
 - [网站地图]( https://www.qxf0418.fun/%e7%bd%91%e7%ab%99%e5%9c%b0%e5%9b%be)
 ![网站地图](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/siteoringe.png)
+
 ![siteorigin](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/siteorigin%E9%9D%A2%E5%8C%85%E5%B1%91.png)
 
 - [通过插件实现CSS3动画](https://www.qxf0418.fun/%e9%80%9a%e8%bf%87%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0css3%e5%8a%a8%e7%94%bb.html)
 ![siteorigin](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/siteorigin.png)
+
+- 文章图文来源标明出处并给出链接。
+![标明出处](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/siteorigin.png)
 
 #### 网站配色、对比度与可读性
 - 网站的配色以白色和黑色为主，淡绿色为网站主体背景色。链接字体为蓝色，导航和文章标题为白色，其他字体黑色，可读性比较强。
@@ -167,7 +171,7 @@
 - [常用SEO优化方法总结](https://baijiahao.baidu.com/s?id=1588992193863453100&wfr=spider&for=pc)
 - [SEO优化需要注意的三个问题是什么](http://www.wenfangge.cn/dx/wzlb/300.html)
 
-#### 网页要不断优化
+#### SEO优化1——网页要不断优化
 网站的内容、排版等要时刻进行优化，我对文章的排版优化之后，数据显示是有增加的。
 
 - 6月24、25日更新的文章
@@ -176,15 +180,18 @@
 - 6月26日上升的浏览量： 
 ![6月26日上升的浏览量](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E4%BC%98%E5%8C%96%E5%90%8E%E6%8F%90%E5%8D%87.png)
 
-#### 网站地图
+#### SEO优化2——网站地图
 -	网站地图的设置也能够让网站的浏览量得到提升。
 
-#### 增加外链和内链
+#### SEO优化3——增加外链和内链
 - 我在我的文章里面添加了外链、内链，当你在阅读我的文章时，可以通过我的内链进到我的另一个文章页面，，也可以通过外链进入到其他网站。
 ![外链]()
 ![内链](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%86%85%E9%93%BE1.png)
-#### WP Clean Up插件优化wp的数据库
-![WP Clean Up]()
+#### SEO优化4——定义标记的ALT属性库
+![ALT属性库](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/ALT%E4%BC%98%E5%8C%96.png)
+
+#### SEO优化5——根据bing管理者工具的提示进行优化
+![提示进行优化](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/bing-SEO%E5%88%86%E6%9E%90.png)
 
 - 通过以上SEO的优化方式，优化了我的网站，也提高了我网站的阅读量。
 ![jetpack]()
