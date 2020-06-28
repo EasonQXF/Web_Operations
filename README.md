@@ -66,7 +66,7 @@
 
 #### 网站地图
 - 不完全按照分类目录标签来，而是根据用户的需求进行网站地图的设计。
-![网站地图]()
+![网站地图](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E7%BD%91%E7%AB%99%E5%9C%B0%E5%9B%BE.png)
 
 ## 平面设计
 #### 平面设计插件运用
@@ -75,13 +75,15 @@
 ![图片]()
 
 - 在文章的标题加了简单动画，增加阅读趣味性让标题更醒目。
-![标题]()
+![标题](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/animate%E5%8A%A8%E7%94%BB%E8%AE%BE%E7%BD%AE1.png)
 
 - SiteOrigin
 - [网站地图]( https://www.qxf0418.fun/%e7%bd%91%e7%ab%99%e5%9c%b0%e5%9b%be)
-![siteorigin]()
-- [通过插件实现CSS3动画]( https://www.qxf0418.fun/%e9%80%9a%e8%bf%87%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0css3%e5%8a%a8%e7%94%bb.html)
-![ 通过插件实现CSS3动画]()
+![网站地图](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/siteoringe.png)
+![siteorigin](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/siteorigin%E9%9D%A2%E5%8C%85%E5%B1%91.png)
+
+- [通过插件实现CSS3动画](https://www.qxf0418.fun/%e9%80%9a%e8%bf%87%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0css3%e5%8a%a8%e7%94%bb.html)
+![siteorigin](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/siteorigin.png)
 
 #### 网站配色、对比度与可读性
 - 网站的配色以白色和黑色为主，淡绿色为网站主体背景色。链接字体为蓝色，导航和文章标题为白色，其他字体黑色，可读性比较强。
@@ -91,6 +93,7 @@
 
 #### 图库风格及配色
 图库的风格以热血拼搏为主，大部分来自NBA中国官方网站（球员、球队等图片）。
+![图库]()
 
 ## 架站踩坑图文文章
 - [通过插件实现CSS3动画]( https://www.qxf0418.fun/%e9%80%9a%e8%bf%87%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0css3%e5%8a%a8%e7%94%bb.html)
@@ -102,7 +105,7 @@
 ## 云端网站管理
 #### 云端架站
 - 有可用的云端网站，使用了域名：https://www.qxf0418.fun/
-![域名]()
+![域名](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%9F%9F%E5%90%8D.png)
 
 #### 网站安全
 - 目前我的网站的安全性属于中等的程度。
@@ -113,20 +116,28 @@
 - 我的网站会时常受到别人的攻击，但暂时并未受到影响。
 - 我还可以寻找其他插件进行再一层的保护。
 
-![24小时的总攻击量]()
-![30天攻击量]()
+![24小时的总攻击量](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/24%E5%B0%8F%E6%97%B6attacks.png)
+![30天攻击量](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/30%E5%A4%A9attacks.png)
 
 #### 网站性能
-- 使用了site24*7监控网站，添加了8个以上地点，监视器总数为8个。
-![site24]()
-![site24]()
-![site_数据]()
+- 使用了site24*7监控网站，添加了8个以上地点，监视器总数为8个。（截止至2020.06.28）
+![site24](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%85%A8%E5%B1%80%E7%8A%B6%E6%80%818%E4%B8%AA%E4%BD%8D%E7%BD%AE.png)
+![site24](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/8%E4%B8%AA%E7%9B%91%E8%A7%86%E5%99%A8.png)
+![site_数据](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/site%E6%A6%82%E5%86%B5.png)
 
 #### 网站备份
 - 提供将wp-config.php备份本地的截图；提供通过插件备份数据库（sql文件）截图；提供通过wordpress后台导出工具导到本地的文件截图。
-![网站备份]()
-![网站备份]()
-![网站备份]()
+- wordpress后台导出工具导到本地
+![网站备份](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%B7%A5%E5%85%B7-%E5%AF%BC%E5%87%BA.png)
+
+- 登录winscp并备份到本地
+![网站备份](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E7%99%BB%E5%BD%95winscp.png)
+
+- 通过插件备份数据库
+![网站备份](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E4%BD%BF%E7%94%A8%E6%8F%92%E4%BB%B6%E5%A4%87%E4%BB%BD.png)
+
+- 备份文件存放本地文件夹总览
+![网站备份](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%A4%87%E4%BB%BD.png)
 
 *******
 
@@ -134,39 +145,35 @@
 ## 站长工具 
 我运用了 **Baidu** 和 **bing** 的站长工具 
 #### 站长工具A：Baidu站长工具
-- 我在6月3日注册成功Google的站长工具，以下截图就是从6月3日——6月27日网站的流量情况。申请这个Baidu的站长工具，我并为费多大的气力，在我申请后的不到二十分钟，Baidu就把我的网站收录了。
-![Baidu的站长工具]()
-
+- 我在6月22日注册成功Baidu的站长工具，以下截图就是从6月22日——6月26日网站的流量情况。申请这个Baidu的站长工具，我并为费多大的气力，在我申请后的不到二十分钟，Baidu就把我的网站收录了。
 - Baidu收录了我的网站截图
-![Baidu收录了我的网站]()
+![Baidu收录了我的网站](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/Baidu%E6%90%9C%E7%B4%A2.png)
 
 #### 站长工具B：bing站长工具
-- 我成功注册Bing的站长工具，以下截图为5月30日——6月27日网站的流量情况。刚开始申请这个bing的站长工具的时候，我提交了好几次sitemap，bing还是一直没有收录我的网站，而在后台却一直显示收录成功，直到有一天就突然收录了。是因为bing的抓取速度相比于Baidu要慢一些，只需耐心等待就行了。
-![bing站点工具]()
-
+- 我成功注册Bing的站长工具，以下截图为6月22日——6月26日网站的流量情况。刚刚申请成功的时候bing一直搜索不到我的网站，而在后台却显示收录成功，大概过了两天左右就突然收录了。
+- 据了解这是因为bing的抓取速度相比于Baidu要慢一些，只需耐心等待就行了。
 - bing收录我的网站截图
-![bing收录了我的网站]()
+![bing收录了我的网站](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/bing%E6%90%9C%E7%B4%A2.png)
 
 ## SEO优化
 可以明显看出，几乎没有人流量我的网站。
 ![数据记录]()
 
 - 我参考以下文章来优化我的SEO
-- [SEO优化方法究竟会有哪些呢](https://www.zhanyouyun.com/cpfw/seoyhytl/301.html)
 - [常用SEO优化方法总结](https://baijiahao.baidu.com/s?id=1588992193863453100&wfr=spider&for=pc)
+- [SEO优化需要注意的三个问题是什么](http://www.wenfangge.cn/dx/wzlb/300.html)
 
 #### 网页要不断优化
 网站的内容、排版等要时刻进行优化，我对文章的排版优化之后，数据显示是有增加的。
 
-- 6月3日更新的文章
+- 6月24、25日更新的文章
 ![6月]()
 
-- 6月上升的浏览量： 
-![]()
+- 6月26日上升的浏览量： 
+![浏览量]()
 
 #### 网站地图
 -	网站地图的设置也能够让网站的浏览量得到提升。
-![网站地图]()
 
 #### 增加外链和内链
 - 我在我的文章里面添加了外链、内链，当你在阅读我的文章时，可以通过我的内链进到我的另一个文章页面，，也可以通过外链进入到其他网站。
@@ -182,22 +189,23 @@
 - 人数：四人
 - 我通过用户访谈结合问卷调查的形式，对四人进行了采访，最终得到用户最关心的问题是：
 1. 文章链接的颜色跟别的没有区分，导致有时候会不清楚这是不是链接。
-![文章链接]()
+![文章链接](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E9%93%BE%E6%8E%A5%E8%93%9D%E8%89%B2%EF%BC%88%E5%89%8D%EF%BC%89.png)
 2. 看过的文章和没看过的文章没有明显差别，有时会重复点进同一篇文章。
-![区分]()
+![区分](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E9%93%BE%E6%8E%A5%E8%93%9D%E8%89%B2%EF%BC%88%E5%90%8E%EF%BC%89.png)
 
 - 改进A
 我将所有的链接都改为蓝色＋下划线，这样就更加容易认得出来。
-![文章链接]()
+![文章链接](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E9%93%BE%E6%8E%A5%E8%93%9D%E8%89%B2%EF%BC%88%E5%90%8E%EF%BC%89.png)
 
 - 改进B
 用户会发生这样的情况是因为，首页展示最近文章，用户从分类目录进入有时会重复看到一篇文章。为此进行修改主题，将看过的文章链接变为黑色，未看过的文章默认为蓝色。
-![区分]()
+![区分](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E7%9C%8B%E8%BF%87%E7%9A%84%E6%96%87%E7%AB%A0%E9%93%BE%E6%8E%A5%E5%8F%98%E6%88%90%E9%BB%91%E8%89%B2.png)
 
 ## 定制化
 1. 
 
 2. 通过使用WP Content Copy Protection & No Right Click插件，添加了不可复制网站的功能。通过使用插件使得网站的文章不能被复制，保护了这个文章原作者的权益。
-![禁止复制文章]()
+![禁止复制文章](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%AE%89%E5%85%A8%E6%8F%92%E4%BB%B6.png)
+![禁止复制文章](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E6%97%A0%E6%B3%95%E5%A4%8D%E5%88%B6%E4%BF%9D%E6%8A%A4.png)
 
 
