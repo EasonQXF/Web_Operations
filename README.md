@@ -35,6 +35,10 @@
     - [（三）用户研究](#用户研究)
     - [（四）定制化](#定制化)
 
+- [四、加分项](#加分项)
+    - [（一）使用HTTPS](#使用HTTPS)    
+
+    
 # 一、策划
 ## 策划文档与网站地图
 #### 网站建设目标
@@ -70,30 +74,35 @@
 
 ## 平面设计
 #### 平面设计插件运用
-- 使用Animate it! 
+- 使用Animate it! （展示两处）
 - 文章的图片增加Animate it!动画，增加阅读趣味性。
 ![图片]()
 
 - 在文章的标题加了简单动画，增加阅读趣味性让标题更醒目。
 ![标题](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/animate%E5%8A%A8%E7%94%BB%E8%AE%BE%E7%BD%AE1.png)
 
-- SiteOrigin
+- SiteOrigin（展示三处）
 - [网站地图]( https://www.qxf0418.fun/%e7%bd%91%e7%ab%99%e5%9c%b0%e5%9b%be)
 ![网站地图](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/siteoringe.png)
+
 ![siteorigin](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/siteorigin%E9%9D%A2%E5%8C%85%E5%B1%91.png)
 
 - [通过插件实现CSS3动画](https://www.qxf0418.fun/%e9%80%9a%e8%bf%87%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0css3%e5%8a%a8%e7%94%bb.html)
 ![siteorigin](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/siteorigin.png)
+
+- 文章图文来源标明出处并给出链接。
+![标明出处](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/siteorigin.png)
 
 #### 网站配色、对比度与可读性
 - 网站的配色以白色和黑色为主，淡绿色为网站主体背景色。链接字体为蓝色，导航和文章标题为白色，其他字体黑色，可读性比较强。
 - 而且文章的封面以球员为主，网站整体体现出篮球的拼搏精神，图片足够，可读性较强。
 
 #### 图片的使用
+图片使用除了原创的图片之外，一律出自NBA中国官方网站[NBA中国官方网站]( https://china.nba.com/)。
 
 #### 图库风格及配色
 图库的风格以热血拼搏为主，大部分来自NBA中国官方网站（球员、球队等图片）。
-![图库]()
+![图库](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%9B%BE%E7%89%87%E5%BA%93.png)
 
 ## 架站踩坑图文文章
 - [通过插件实现CSS3动画]( https://www.qxf0418.fun/%e9%80%9a%e8%bf%87%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0css3%e5%8a%a8%e7%94%bb.html)
@@ -156,33 +165,37 @@
 ![bing收录了我的网站](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/bing%E6%90%9C%E7%B4%A2.png)
 
 ## SEO优化
-可以明显看出，几乎没有人流量我的网站。
-![数据记录]()
+可以明显看出，6月24日前几乎没有人流量我的网站。
+![数据记录](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E4%BC%98%E5%8C%96%E5%90%8E%E6%8F%90%E5%8D%87.png)
 
 - 我参考以下文章来优化我的SEO
 - [常用SEO优化方法总结](https://baijiahao.baidu.com/s?id=1588992193863453100&wfr=spider&for=pc)
 - [SEO优化需要注意的三个问题是什么](http://www.wenfangge.cn/dx/wzlb/300.html)
 
-#### 网页要不断优化
+#### SEO优化1——网页要不断优化
 网站的内容、排版等要时刻进行优化，我对文章的排版优化之后，数据显示是有增加的。
 
 - 6月24、25日更新的文章
-![6月]()
+![6月24、25日更新的文章](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E6%9B%B4%E6%96%B0%E7%9A%84%E6%96%87%E7%AB%A0062425.png)
 
 - 6月26日上升的浏览量： 
-![浏览量]()
+![6月26日上升的浏览量](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E4%BC%98%E5%8C%96%E5%90%8E%E6%8F%90%E5%8D%87.png)
 
-#### 网站地图
+#### SEO优化2——网站地图
 -	网站地图的设置也能够让网站的浏览量得到提升。
 
-#### 增加外链和内链
+#### SEO优化3——增加外链和内链
 - 我在我的文章里面添加了外链、内链，当你在阅读我的文章时，可以通过我的内链进到我的另一个文章页面，，也可以通过外链进入到其他网站。
+![外链]()
+![内链](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%86%85%E9%93%BE1.png)
+#### SEO优化4——定义标记的ALT属性库
+![ALT属性库](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/ALT%E4%BC%98%E5%8C%96.png)
 
-#### WP Clean Up插件优化wp的数据库
-![WP Clean Up]()
+#### SEO优化5——根据bing管理者工具的提示进行优化
+![提示进行优化](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/bing-SEO%E5%88%86%E6%9E%90.png)
 
 - 通过以上SEO的优化方式，优化了我的网站，也提高了我网站的阅读量。
-![jetpack]()
+![jetpack](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/jetpack.png)
 
 ## 用户研究
 #### 用户访谈
@@ -202,10 +215,15 @@
 ![区分](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E7%9C%8B%E8%BF%87%E7%9A%84%E6%96%87%E7%AB%A0%E9%93%BE%E6%8E%A5%E5%8F%98%E6%88%90%E9%BB%91%E8%89%B2.png)
 
 ## 定制化
-1. 
+1. 为文章增加面包屑导航（利用面包屑导航插件）
+![面包屑导航](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E6%96%87%E6%9C%AB%E9%9D%A2%E5%8C%85%E5%B1%91%E5%AF%BC%E8%88%AAsiteorigin.png)
+![面包屑导航插件](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E9%9D%A2%E5%8C%85%E5%B1%91%E5%AF%BC%E8%88%AA%E5%AE%89%E8%A3%85.png)
+2. 根据用户需求改进网站链接显示方式——看过的文章链接变为黑色，未看过的文章默认为蓝色。
+![区分](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E7%9C%8B%E8%BF%87%E7%9A%84%E6%96%87%E7%AB%A0%E9%93%BE%E6%8E%A5%E5%8F%98%E6%88%90%E9%BB%91%E8%89%B2.png)
 
-2. 通过使用WP Content Copy Protection & No Right Click插件，添加了不可复制网站的功能。通过使用插件使得网站的文章不能被复制，保护了这个文章原作者的权益。
+3. 满足网站防盗功能——通过使用WP Content Copy Protection & No Right Click插件，添加了不可复制网站的功能。通过使用插件使得网站的文章不能被复制，保护了这个文章原作者的权益。
 ![禁止复制文章](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%AE%89%E5%85%A8%E6%8F%92%E4%BB%B6.png)
 ![禁止复制文章](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E6%97%A0%E6%B3%95%E5%A4%8D%E5%88%B6%E4%BF%9D%E6%8A%A4.png)
 
-
+# 使用HTTPS
+![域名](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%9F%9F%E5%90%8D.png)
