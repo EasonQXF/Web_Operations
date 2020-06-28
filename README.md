@@ -98,6 +98,7 @@
 - 而且文章的封面以球员为主，网站整体体现出篮球的拼搏精神，图片足够，可读性较强。
 
 #### 图片的使用
+图片使用除了原创的图片之外，一律出自NBA中国官方网站[NBA中国官方网站]( https://china.nba.com/)。
 
 #### 图库风格及配色
 图库的风格以热血拼搏为主，大部分来自NBA中国官方网站（球员、球队等图片）。
@@ -164,8 +165,8 @@
 ![bing收录了我的网站](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/bing%E6%90%9C%E7%B4%A2.png)
 
 ## SEO优化
-可以明显看出，几乎没有人流量我的网站。
-![数据记录]()
+可以明显看出，6月24日前几乎没有人流量我的网站。
+![数据记录](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E4%BC%98%E5%8C%96%E5%90%8E%E6%8F%90%E5%8D%87.png)
 
 - 我参考以下文章来优化我的SEO
 - [常用SEO优化方法总结](https://baijiahao.baidu.com/s?id=1588992193863453100&wfr=spider&for=pc)
@@ -194,7 +195,7 @@
 ![提示进行优化](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/bing-SEO%E5%88%86%E6%9E%90.png)
 
 - 通过以上SEO的优化方式，优化了我的网站，也提高了我网站的阅读量。
-![jetpack]()
+![jetpack](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/jetpack.png)
 
 ## 用户研究
 #### 用户访谈
@@ -214,10 +215,13 @@
 ![区分](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E7%9C%8B%E8%BF%87%E7%9A%84%E6%96%87%E7%AB%A0%E9%93%BE%E6%8E%A5%E5%8F%98%E6%88%90%E9%BB%91%E8%89%B2.png)
 
 ## 定制化
-1. 根据用户需求改进网站链接显示方式——看过的文章链接变为黑色，未看过的文章默认为蓝色。
+1. 为文章增加面包屑导航（利用面包屑导航插件）
+![面包屑导航](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E6%96%87%E6%9C%AB%E9%9D%A2%E5%8C%85%E5%B1%91%E5%AF%BC%E8%88%AAsiteorigin.png)
+![面包屑导航插件](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E9%9D%A2%E5%8C%85%E5%B1%91%E5%AF%BC%E8%88%AA%E5%AE%89%E8%A3%85.png)
+2. 根据用户需求改进网站链接显示方式——看过的文章链接变为黑色，未看过的文章默认为蓝色。
 ![区分](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E7%9C%8B%E8%BF%87%E7%9A%84%E6%96%87%E7%AB%A0%E9%93%BE%E6%8E%A5%E5%8F%98%E6%88%90%E9%BB%91%E8%89%B2.png)
 
-2. 满足网站防盗功能——通过使用WP Content Copy Protection & No Right Click插件，添加了不可复制网站的功能。通过使用插件使得网站的文章不能被复制，保护了这个文章原作者的权益。
+3. 满足网站防盗功能——通过使用WP Content Copy Protection & No Right Click插件，添加了不可复制网站的功能。通过使用插件使得网站的文章不能被复制，保护了这个文章原作者的权益。
 ![禁止复制文章](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%AE%89%E5%85%A8%E6%8F%92%E4%BB%B6.png)
 ![禁止复制文章](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E6%97%A0%E6%B3%95%E5%A4%8D%E5%88%B6%E4%BF%9D%E6%8A%A4.png)
 
