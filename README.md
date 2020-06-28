@@ -76,7 +76,7 @@
 #### 平面设计插件运用
 - 使用Animate it! （展示两处）
 - 文章的图片增加Animate it!动画，增加阅读趣味性。
-![图片](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/animateittupian.png)
+![tupian](https://gitee.com/EdisonQXF/Web_Operations/blob/master/images/tupian.png)
 
 - 在文章的标题加了简单动画，增加阅读趣味性让标题更醒目。
 ![标题](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/animate%E5%8A%A8%E7%94%BB%E8%AE%BE%E7%BD%AE1.png)
@@ -102,7 +102,7 @@
 
 #### 图库风格及配色
 图库的风格以热血拼搏为主，大部分来自NBA中国官方网站（球员、球队等图片）。
-![图库](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%9B%BE%E7%89%87%E5%BA%93.png)
+![tupianku](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/tupianku.png)
 
 ## 架站踩坑图文文章
 - [通过插件实现CSS3动画]( https://www.qxf0418.fun/%e9%80%9a%e8%bf%87%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0css3%e5%8a%a8%e7%94%bb.html)
@@ -170,7 +170,7 @@
 ![bing收录了我的网站](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/bing%E6%90%9C%E7%B4%A2.png)
 
 ## SEO优化
-可以明显看出，6月24日前几乎没有人流量我的网站。
+- 可以明显看出，6月24日前几乎没有人流量我的网站。
 ![数据记录](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E4%BC%98%E5%8C%96%E5%90%8E%E6%8F%90%E5%8D%87.png)
 
 - 我参考以下文章来优化我的SEO
