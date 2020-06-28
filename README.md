@@ -129,9 +129,14 @@
 
 #### 网站性能
 - 使用了site24*7监控网站，添加了8个以上地点，监视器总数为8个。（截止至2020.06.28）
-![site24](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%85%A8%E5%B1%80%E7%8A%B6%E6%80%818%E4%B8%AA%E4%BD%8D%E7%BD%AE.png)
-![site24](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/8%E4%B8%AA%E7%9B%91%E8%A7%86%E5%99%A8.png)
-![site_数据](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/site%E6%A6%82%E5%86%B5.png)
+- ![site24](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%85%A8%E5%B1%80%E7%8A%B6%E6%80%818%E4%B8%AA%E4%BD%8D%E7%BD%AE.png)
+- ![site24](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/8%E4%B8%AA%E7%9B%91%E8%A7%86%E5%99%A8.png)
+- 从site24x7的面板展示的数据可以看出，在最近的一个星期中，主要问题是网站的停机时间有两分钟。
+- ![site_数据](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/site%E6%A6%82%E5%86%B5.png)
+- 从下方数据可以看得出来，长达15.28秒的响应时间可能会导致用户关闭网站，或者是无法加载。
+- ![site](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/site%E6%95%B0%E6%8D%AE%E8%A1%A8.png)
+- 从整体的数据来看，网站的响应速度需要调整得更加稳定，虽然存在问题但是网站总体还是可以的，可用性达到了97.078%。
+- ![site24x7](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/site%E5%B9%B3%E5%9D%87%E5%80%BC.png)
 
 #### 网站备份
 - 提供将wp-config.php备份本地的截图；提供通过插件备份数据库（sql文件）截图；提供通过wordpress后台导出工具导到本地的文件截图。
@@ -154,8 +159,9 @@
 我运用了 **Baidu** 和 **bing** 的站长工具 
 #### 站长工具A：Baidu站长工具
 - 我在6月22日注册成功Baidu的站长工具，以下截图就是从6月22日——6月26日网站的流量情况。申请这个Baidu的站长工具，我并为费多大的气力，在我申请后的不到二十分钟，Baidu就把我的网站收录了。
+- ![baidu](https://gitee.com/EdisonQXF/Web_Operations/blob/master/images/%E7%AB%99%E7%82%B9.png)
 - Baidu收录了我的网站截图
-![Baidu收录了我的网站](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/Baidu%E6%90%9C%E7%B4%A2.png)
+- ![Baidu收录了我的网站](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/Baidu%E6%90%9C%E7%B4%A2.png)
 
 #### 站长工具B：bing站长工具
 - 我成功注册Bing的站长工具，以下截图为6月22日——6月26日网站的流量情况。刚刚申请成功的时候bing一直搜索不到我的网站，而在后台却显示收录成功，大概过了两天左右就突然收录了。
