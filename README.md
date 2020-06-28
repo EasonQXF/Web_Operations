@@ -76,7 +76,7 @@
 #### 平面设计插件运用
 - 使用Animate it! （展示两处）
 - 文章的图片增加Animate it!动画，增加阅读趣味性。
-![图片]()
+![图片](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/animateittupian.png)
 
 - 在文章的标题加了简单动画，增加阅读趣味性让标题更醒目。
 ![标题](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/animate%E5%8A%A8%E7%94%BB%E8%AE%BE%E7%BD%AE1.png)
@@ -119,8 +119,7 @@
 #### 网站安全
 - 目前我的网站的安全性属于中等的程度。
 - 我通过安装了wordfence插件来检测自己网站的安全性，在2020年6月28日通过对网站进行扫描发现我的网站没有出现安全隐患。
-![wordfence安全截图]()
-![wordfence安全截图]()
+![wordfence安全截图](https://gitee.com/EdisonQXF/Web_Operations/blob/master/images/wordfence%E5%AE%89%E5%85%A8%E6%88%AA%E5%9B%BE.png)
 
 - 我的网站会时常受到别人的攻击，但暂时并未受到影响。
 - 我还可以寻找其他插件进行再一层的保护。
