@@ -76,7 +76,7 @@
 #### 平面设计插件运用
 - 使用Animate it! （展示两处）
 - 文章的图片增加Animate it!动画，增加阅读趣味性。
-![tupian](https://gitee.com/EdisonQXF/Web_Operations/blob/master/images/tupian.png)
+- ![tupian](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/tupian.png)
 
 - 在文章的标题加了简单动画，增加阅读趣味性让标题更醒目。
 ![标题](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/animate%E5%8A%A8%E7%94%BB%E8%AE%BE%E7%BD%AE1.png)
@@ -102,7 +102,7 @@
 
 #### 图库风格及配色
 图库的风格以热血拼搏为主，大部分来自NBA中国官方网站（球员、球队等图片）。
-![tupianku](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/tupianku.png)
+- ![tupianku](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/tupianku.png)
 
 ## 架站踩坑图文文章
 - [通过插件实现CSS3动画]( https://www.qxf0418.fun/%e9%80%9a%e8%bf%87%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0css3%e5%8a%a8%e7%94%bb.html)
@@ -159,7 +159,7 @@
 我运用了 **Baidu** 和 **bing** 的站长工具 
 #### 站长工具A：Baidu站长工具
 - 我在6月22日注册成功Baidu的站长工具，以下截图就是从6月22日——6月26日网站的流量情况。申请这个Baidu的站长工具，我并为费多大的气力，在我申请后的不到二十分钟，Baidu就把我的网站收录了。
-- ![baidu](https://gitee.com/EdisonQXF/Web_Operations/blob/master/images/%E7%AB%99%E7%82%B9.png)
+- ![baidu](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E7%AB%99%E7%82%B9.png)
 - Baidu收录了我的网站截图
 - ![Baidu收录了我的网站](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/Baidu%E6%90%9C%E7%B4%A2.png)
 
