@@ -91,7 +91,7 @@
 ![siteorigin](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/siteorigin.png)
 
 - 文章图文来源标明出处并给出链接。
-![标明出处](https://gitee.com/EdisonQXF/Web_Operations/blob/master/images/%E5%9B%BE%E6%96%87%E5%87%BA%E5%A4%84%E8%AF%B4%E6%98%8E.png)
+![标明出处](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%9B%BE%E6%96%87%E5%87%BA%E5%A4%84%E8%AF%B4%E6%98%8E.png)
 
 #### 网站配色、对比度与可读性
 - 网站的配色以白色和黑色为主，淡绿色为网站主体背景色。链接字体为蓝色，导航和文章标题为白色，其他字体黑色，可读性比较强。
