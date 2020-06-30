@@ -200,7 +200,8 @@
 ![提示进行优化](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/bing-SEO%E5%88%86%E6%9E%90.png)
 
 - 通过以上SEO的优化方式，优化了我的网站，也提高了我网站的阅读量。
-![jetpack](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/jetpack.png)
+- 截止到6月30号，通过以上SEO优化方式我的网站点击量等有了明显的提高。（以下数据来自bing网站管理员工具）
+![bing网站管理员工具](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/bing%E6%95%B0%E6%8D%AE.png)
 
 ## 用户研究
 #### 用户访谈
