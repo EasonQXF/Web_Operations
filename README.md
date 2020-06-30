@@ -91,7 +91,7 @@
 ![siteorigin](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/siteorigin.png)
 
 - 文章图文来源标明出处并给出链接。
-![标明出处](https://gitee.com/EdisonQXF/Web_Operations/blob/master/images/%E5%9B%BE%E6%96%87%E5%87%BA%E5%A4%84%E8%AF%B4%E6%98%8E.png)
+![标明出处](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%9B%BE%E6%96%87%E5%87%BA%E5%A4%84%E8%AF%B4%E6%98%8E.png)
 
 #### 网站配色、对比度与可读性
 - 网站的配色以白色和黑色为主，淡绿色为网站主体背景色。链接字体为蓝色，导航和文章标题为白色，其他字体黑色，可读性比较强。
@@ -191,8 +191,8 @@
 
 #### SEO优化3——增加外链和内链
 - 我在我的文章里面添加了外链、内链，当你在阅读我的文章时，可以通过我的内链进到我的另一个文章页面，，也可以通过外链进入到其他网站。
-![外链]()
-![内链](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%86%85%E9%93%BE1.png)
+- ![外链](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/wailian.png)
+- ![内链](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/%E5%86%85%E9%93%BE1.png)
 #### SEO优化4——定义标记的ALT属性库
 ![ALT属性库](https://gitee.com/EdisonQXF/Web_Operations/raw/master/images/ALT%E4%BC%98%E5%8C%96.png)
 
